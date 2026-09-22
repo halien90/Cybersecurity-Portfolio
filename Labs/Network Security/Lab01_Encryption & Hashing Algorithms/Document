@@ -1,0 +1,6 @@
+📌OBJECTIVE
+This lab apply common encryption and hashing techniques to ensure confidentiality, integrity, and authentication. 
+Message Digest Algorithm 5 (MD5) and Secure Hash Algorithm 1 (SHA1) hash algorithms will be applied to a text file on a Linux virtual machine (VM).
+
+For encryption the GNU Privacy Guard (GnuPG) will create a key pair and encrypt the message. These key pairs will be utilized to send secure 
+messages between two user accounts.  
