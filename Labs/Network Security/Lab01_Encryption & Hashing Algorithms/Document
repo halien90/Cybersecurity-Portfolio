@@ -5,7 +5,7 @@ Message Digest Algorithm 5 (MD5) and Secure Hash Algorithm 1 (SHA1) hash algorit
 For encryption the GNU Privacy Guard (GnuPG) will create a key pair and encrypt the message. These key pairs will be utilized to send secure 
 messages between two user accounts.  
 
-📈 SKILLS Learned
+📈 SKILLS LEARNED
 * How to create a MD5sum and SHA1sum hash string
 * How to ouput and create a new text file with the hash string
 * How to generate GnuPG keys
