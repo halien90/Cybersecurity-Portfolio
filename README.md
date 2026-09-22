@@ -8,7 +8,7 @@ This portfolio is designed to showcase:
 * Security risk audits and assessments
 * Network security
 * Digital Forensics
-## 🤠About Me
+## 💡About Me
 My journey in cybersecurity has led me to be passionate about digital forensics and network security. I am eager to apply theoretical knowledge from the classroom to real world problems and projects. 
 ## 🧰Tools & Technologies
 * Network Security: Wireshark, Snort, NetworkMiner
