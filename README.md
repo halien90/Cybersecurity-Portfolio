@@ -1,5 +1,5 @@
 # 💻Cybersecurity-Portfolio
-Welcome to my Cybersecurity Portfolio! This repository showcases a variety of hands-on projects and labs from classes and personal studies. This portfolio covers digital forensics, network defense, and incident response. 
+Welcome to my Cybersecurity Portfolio! This repository showcases a variety of hands-on projects and labs from classes, certifications, and personal studies. This portfolio covers digital forensics, network defense, and incident response. 
 ## 📂About
 This portfolio features projects completed as part of multiple certification programs, including Google, courses from my university, and other self-directed learning. 
 
