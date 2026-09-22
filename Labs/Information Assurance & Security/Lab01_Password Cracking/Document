@@ -1,2 +1,12 @@
 📍OBJECTIVE
-The Password Cracking Lab is aimed to...
+The Password Cracking Lab is aimed to explore how unathorized actors can bypass passwords. It not impossibe for bad actors to bypass these safegaurds and steal sensitive credientials. 
+
+📈SKILLS LEARNED
+-Knowledge in cracking passwords 
+-Ability to use software tools to crack passwords
+
+🛡️TOOLS USED
+-Kali-Hunt VM
+-Johnny
+-Ophcrack 
+-Crack Staiton (https://crackstation.net/) 
